@@ -1301,6 +1301,12 @@
 		)
 	)
 	(junction
+		(at 95.25 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "192ba1eb-e202-473b-a348-a4d03ea0d9ab")
+	)
+	(junction
 		(at 77.47 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1317,6 +1323,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8530152-1931-46ef-b246-5b622f3fb621")
+	)
+	(wire
+		(pts
+			(xy 85.09 71.12) (xy 95.25 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "159f7e48-8cce-4954-b182-7d262c326dc6")
 	)
 	(wire
 		(pts
@@ -1777,7 +1793,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 77.47 67.31 0)
+		(at 81.28 71.12 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1788,29 +1804,27 @@
 		(fields_autoplaced yes)
 		(uuid "9254e9e2-fcac-4b31-af94-b8c5c366c8bf")
 		(property "Reference" "R1"
-			(at 80.01 66.0399 0)
+			(at 81.28 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "R"
-			(at 80.01 68.5799 0)
+			(at 81.28 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 75.692 67.31 90)
+			(at 81.28 72.898 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1821,7 +1835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 67.31 0)
+			(at 81.28 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1832,7 +1846,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 77.47 67.31 0)
+			(at 81.28 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
