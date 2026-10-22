@@ -1971,7 +1971,7 @@
 			)
 		)
 	)
-	(global_label "Vcc"
+	(global_label "Vcc24"
 		(shape input)
 		(at 140.97 72.39 180)
 		(fields_autoplaced yes)
@@ -1983,7 +1983,7 @@
 		)
 		(uuid "35a678b2-de27-44e2-8ba0-b98495b508db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.719 72.39 0)
+			(at 132.3 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1995,7 +1995,7 @@
 			)
 		)
 	)
-	(global_label "Vcc"
+	(global_label "Vcc24"
 		(shape input)
 		(at 95.25 63.5 0)
 		(fields_autoplaced yes)
@@ -2007,7 +2007,7 @@
 		)
 		(uuid "a0013638-27a5-4a4c-a322-5200ad597993")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.501 63.5 0)
+			(at 103.92 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2497,7 +2497,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N5408"
 			(at 113.03 78.7399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2676,7 +2676,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22k"
 			(at 86.36 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2999,7 +2999,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N5408"
 			(at 113.03 90.1699 90)
 			(show_name no)
 			(do_not_autoplace no)
