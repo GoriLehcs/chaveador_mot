@@ -2911,7 +2911,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRF9540N"
+		(property "Value" "IRF9640N"
 			(at 99.06 74.9301 0)
 			(show_name no)
 			(do_not_autoplace no)
